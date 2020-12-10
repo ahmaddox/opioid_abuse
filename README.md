@@ -4,16 +4,21 @@ Amy Haven Maddox
 Regis University
 MSDS 696 Practicum II
 
-## Project Description
+## Project Summary
 
-This project aims to:
-1. Determine the relationship between mental health and opioid abuse
-2. Determine the relationship between poverty levels and opioid abuse
-3. Determine the relationship between dependence / abuse on illicit drugs, alcohol, tobacco, and opioid abuse
-4. Determine the relationship between pain prescription use and pain prescription misuse
-5. Classify opioid abuse using ensemble method machine learning to determine whether or not a person would be an opioid user or not
+This project attempts to explore the personal side of opioid abuse. This is done through the use of the National Drug Use and Health Survey (2018), which contains 2,691 features of data and more than 56,000 observations. Each observation is an individual participant who has responded to the survey through a computer generated questionaire (guided by a survey technician). 
 
-## Description of Dataset
+This file will explain the motivation, process, analysis of data, and summary of findings.
+
+## Motivation
+
+Opioid use in the United States was declared a national public health emergency in 2017. Millions of people each year misuse prescription drugs, leading to long term drug addiction and potentially drug overdose. HHS.gov reports an estimated 130 people die each day of an opioid related drug overdose. The epidemic is widespread and while government figures report decreases, the problem is still at large. But who is most at risk?
+
+## Problem Statement
+
+The statistics and data released by the government contains useful information regarding the number of overdose deaths, increases and decreases from year to year, and information regarding the root cause of the epidemic. Can I build a classification model that will accurately classify someone as an opioid user based on demographic data? Can I determine relationships between opioid abuse and specific demographic data?
+
+## The Data
 
 The dataset, 2018 National Survey on Drug Use and Health, has been retrieved from the Substance Abuse and Mental Health Services Adminstration website. The survey is sponsored by the Center for Behavorial Health Statistics and Quality (CBHSQ). 
 
